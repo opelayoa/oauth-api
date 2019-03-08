@@ -1,0 +1,97 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "mx.tiendas3b.oauth2.Oauth2Properties",
+      "name": "oauth2",
+      "type": "mx.tiendas3b.oauth2.Oauth2Properties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "mx.tiendas3b.oauth2.Oauth2Properties",
+      "name": "oauth2.access-token-validity-seconds",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "mx.tiendas3b.oauth2.Oauth2Properties",
+      "name": "oauth2.buzone-actualizar-imagen-usuario",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "mx.tiendas3b.oauth2.Oauth2Properties",
+      "name": "oauth2.buzone-actualizar-usuario",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "mx.tiendas3b.oauth2.Oauth2Properties",
+      "name": "oauth2.buzone-change-password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "mx.tiendas3b.oauth2.Oauth2Properties",
+      "name": "oauth2.buzone-login",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "mx.tiendas3b.oauth2.Oauth2Properties",
+      "name": "oauth2.buzone-obtener-imagen-usuario",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "mx.tiendas3b.oauth2.Oauth2Properties",
+      "name": "oauth2.buzone-obtener-usuario",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "mx.tiendas3b.oauth2.Oauth2Properties",
+      "name": "oauth2.buzone-recover-password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "mx.tiendas3b.oauth2.Oauth2Properties",
+      "name": "oauth2.keystore-jks-file",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "mx.tiendas3b.oauth2.Oauth2Properties",
+      "name": "oauth2.keystore-jks-keypair",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "mx.tiendas3b.oauth2.Oauth2Properties",
+      "name": "oauth2.keystore-jks-password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "mx.tiendas3b.oauth2.Oauth2Properties",
+      "name": "oauth2.ldap-base",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "mx.tiendas3b.oauth2.Oauth2Properties",
+      "name": "oauth2.ldap-clave-servicio",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "mx.tiendas3b.oauth2.Oauth2Properties",
+      "name": "oauth2.ldap-password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "mx.tiendas3b.oauth2.Oauth2Properties",
+      "name": "oauth2.ldap-url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "mx.tiendas3b.oauth2.Oauth2Properties",
+      "name": "oauth2.ldap-username",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "mx.tiendas3b.oauth2.Oauth2Properties",
+      "name": "oauth2.refresh-token-validity-seconds",
+      "type": "java.lang.Integer"
+    }
+  ]
+}
