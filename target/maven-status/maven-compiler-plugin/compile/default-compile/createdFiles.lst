@@ -11,7 +11,7 @@ mx\tiendas3b\oauth2\AuthenticationSecurityConfigurer.class
 mx\tiendas3b\oauth2\SimpleCorsFilter.class
 mx\tiendas3b\oauth2\AuthorizationSecurityConfigurer$1.class
 mx\tiendas3b\oauth2\CustomAuthenticationException.class
+mx\tiendas3b\oauth2\User.class
 mx\tiendas3b\oauth2\Oauth2AuthorizationServerApplication$WebAppSecurityConfig.class
 mx\tiendas3b\oauth2\Usuario.class
-mx\tiendas3b\oauth2\UserDetailServiceImpl$1.class
 mx\tiendas3b\oauth2\UsuarioRepository.class
